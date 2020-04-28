@@ -7,8 +7,8 @@
     <title>Index</title>
 </head>
 <body>
-    <img src="../../Content/images/logo-facpya.png" alt="Logo facpya" />
-    <h1>Bienvenido a mi sitio web de videos</h1>
-    <a href="/Video/Index">Ir a videos</a>
+    <a href="/Home/Index">Inicio</a>
+    <p> Aqui se mostrara la informacion de los videos</p>
+    <a href="/Video/Create">Nuevo Video</a>
 </body>
 </html>
